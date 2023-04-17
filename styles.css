@@ -1,2 +1,10 @@
+.row{
+	display: flex;
+	justify-content: space-evenly;
+	align-item: center;
+	
+}
 
-/* Your CSS Code here. */
+.row img {
+	width: 100px;
+}
